@@ -1,3 +1,6 @@
 io.pivotal.spring.cloud.cloudfoundry.EurekaServiceInfoCreator
 io.pivotal.spring.cloud.cloudfoundry.HystrixAmqpServiceInfoCreator
 io.pivotal.spring.cloud.cloudfoundry.ConfigServerServiceInfoCreator
+io.pivotal.spring.cloud.cloudfoundry.UpsiEurekaServiceInfoCreator
+io.pivotal.spring.cloud.cloudfoundry.UpsiHystrixAmqpServiceInfoCreator
+io.pivotal.spring.cloud.cloudfoundry.UpsiConfigServerServiceInfoCreator
